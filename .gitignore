@@ -3,3 +3,5 @@
 *.pyc
 *.xlsx
 *.wav
+play_with_openai.py
+fc_chatgpt.pem
