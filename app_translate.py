@@ -3,7 +3,7 @@
 import openai
 import streamlit as st
 
-openai.api_key = "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"
+openai.api_key = '*'
 
 
 def translate_text_using_davinci(text, src_lang, trg_lang):

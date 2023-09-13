@@ -8,7 +8,7 @@ from pydantic import BaseModel
 import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = "*"
 
 # 클래스로 여러 api 함수를 감싸는 형태
 

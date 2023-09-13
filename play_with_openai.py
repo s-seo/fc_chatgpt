@@ -9,9 +9,9 @@ import openai
 
 # Load your API key from an environment variable or secret management service
 # openai.api_key = "<OPENAI_API_KEY>"
-# export OPEN_API_KEY = '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'
+# export OPEN_API_KEY = '*'
 # 위 구문으로 환경변수 설정해서 os.getenv('OPENAI_API_KEY')로 가져올 수 있음
-openai.api_key = "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"
+openai.api_key = "*"
 
 
 # prompt = """
